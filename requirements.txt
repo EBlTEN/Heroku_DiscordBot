@@ -1,0 +1,3 @@
+sembed
+py-cord
+requests
